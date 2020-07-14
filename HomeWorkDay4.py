@@ -45,5 +45,5 @@ for a, b in zip(x, z):
 #
 # print('complete')
 plt.tight_layout()
-plt.savefig('task1.png')
-# plt.show()
+# plt.savefig('task1.png')
+plt.show()
